@@ -1,1 +1,1 @@
-# demo-spring-elastic
+# demo-elastic
